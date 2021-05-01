@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JameelShaikh32
 - 👀 I’m interested in Web development and Python programming
-- 🌱 I’m currently learning B.Sc Computer Science
+- 🌱 I’m B.Sc Computer Science Graduate
 - 📫 How to reach me Whatsapp: +91 8898148514
 
 <!---
