@@ -9,7 +9,7 @@ Creative and innovative web developer with 2+ years of experience in HTML, CSS &
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [this link.](http://jameelshaikh32.github.io/myportfolio/)
 * ✉️  You can contact me at [shaikhjameel17@gmail.com](mailto:shaikhjameel17@gmail.com)
-* :telephone_receiver:
+* 📞  WhatsApp me at: +91 8898148514
 * 🧠  I'm learning React.js, PHP and jQuery
 * 🤝  I'm open to collaborating on interesting front-end projects.
 * ⚡  I'm good at sketching and also a sports person.
