@@ -1,7 +1,7 @@
 Hi 👋 My name is Jameel Shaikh
 ==============================
 
-Web Developer & UI/UX Developer
+Full Stack Web Developer (MERN) & UI/UX Developer
 -------------------------------
 
 Creative and innovative web developer with 2+ years of experience in HTML, CSS & JavaScript, delivering excellent work to customers. Building beautiful and responsive websites.
