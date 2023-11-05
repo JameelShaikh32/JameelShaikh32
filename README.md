@@ -7,10 +7,10 @@ Full Stack Web Developer (MERN) & UI/UX Developer
 Creative and innovative web developer with 2+ years of experience in HTML, CSS & JavaScript, delivering excellent work to customers. Building beautiful and responsive websites.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [this link.](http://jameelshaikh32.github.io/myportfolio/)
+* 🖥️  See my portfolio at [this link.](http://jameelshaikh32.github.io/profile/)
 * ✉️  You can contact me at [shaikhjameel17@gmail.com](mailto:shaikhjameel17@gmail.com)
 * 📞  WhatsApp me at: +91 8898148514
-* 🧠  I'm learning React.js, PHP and jQuery
+* 🧠  I'm learning React.js, PHP, CodeIgniter and jQuery
 * 🤝  I'm open to collaborating on interesting front-end projects.
 * ⚡  I'm good at sketching and also a sports person.
 
