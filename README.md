@@ -4,7 +4,7 @@ Hi 👋 My name is Jameel Shaikh
 Full Stack Web Developer (MERN) & UI/UX Developer
 -------------------------------
 
-Creative and innovative web developer with 3+ years of experience in HTML, CSS & JavaScript, delivering excellent work to customers. Building beautiful and responsive websites.
+Creative and innovative web developer with 3+ years of experience in HTML, CSS & JavaScript, delivering excellent work to customers and 1+ years of experience in WordPress, React, PHP & CodeIgniter.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [this link.](http://jameelshaikh32.github.io/profile/)
