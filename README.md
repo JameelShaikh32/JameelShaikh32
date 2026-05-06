@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Full Stack Web Developer | Expert in PHP 🐘, Laravel ⚙️, JavaScript 📜, ReactJs 🔵, NextJs, HTML 📄, CSS 💅 & Bootstrap 🎨 | Crafting Scalable Web Solutions ✨
 
-🌍  I'm based in Mumbai, India<br>🖥️  All of my projects are available at [my portfolio.](http://jameelshaikh32.github.io/profile/)<br>✉️  You can contact me at [shaikhjameel17@gmail.com](mailto:shaikhjameel17@gmail.com)<br>🧠  I'm learning React.js, PHP, Laravel and Nodejs<br>🤝  I'm open to collaborating on interesting front-end projects.<br>⚡  I'm good at sketching and also a sports person.
+🌍  I'm based in Mumbai, India<br>🖥️  All of my projects are available at [my portfolio.](https://jameelshaikh.netlify.app)<br>✉️  You can contact me at [shaikhjameel17@gmail.com](mailto:shaikhjameel17@gmail.com)<br>🧠  I'm learning React.js, PHP, Laravel and Nodejs<br>🤝  I'm open to collaborating on interesting front-end projects.<br>⚡  I'm good at sketching and also a sports person.
 
 
 ## 🌐 Socials:
