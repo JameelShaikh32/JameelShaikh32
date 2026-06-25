@@ -11,25 +11,22 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://github.com/JameelShaikh32">
-  <img src="https://img.shields.io/badge/GitHub-JameelShaikh32-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/dev-jameel">
+<a href="https://www.linkedin.com/in/dev-jameel" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-dev--jameel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://instagram.com/_jameel_shaikh">
+<a href="https://instagram.com/_jameel_shaikh" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@_jameel__shaikh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://jameelshaikh.netlify.app">
+<a href="https://jameelshaikh.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-jameelshaikh.netlify.app-10B981?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 <a href="mailto:shaikhjameel17@gmail.com">
   <img src="https://img.shields.io/badge/Email-shaikhjameel17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://medium.com/@dev-jameel">
+<a href="https://medium.com/@dev-jameel" target="_blank">
   <img src="https://img.shields.io/badge/Medium-@dev--jameel-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://youtube.com/@bracketview">
+<a href="https://youtube.com/@bracketview" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-@bracketview-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
@@ -153,7 +150,7 @@ const jameel = {
 
 If you find my projects useful or enjoy my content on YouTube / Medium, a coffee keeps the builds going! ☕
 
-<a href="https://buymeacoffee.com/jameelshaikh">
+<a href="https://buymeacoffee.com/jameelshaikh" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Jameel-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 </a>
 
